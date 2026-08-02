@@ -1,0 +1,14 @@
+[
+	{
+		"Name":"get_weather",
+		"Type":"API",
+		"Category":"MISC",
+		"Version":"1.0",
+		"Description":"Retrieve the current weather information for a specified city including temperature, humidity, and conditions.",
+		"DownloadUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/master/FACTORY/get_city_weather/api-get_weather.tar.gz",
+		"SignatureUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/master/FACTORY/get_city_weather/api-get_weather.tar.gz.sig",
+		"BuildID":"418cbc12e945d744b292aaeaa0d055c76729a0b76b6aa05cb1ae566c8d12d124",
+		"Date":1785669531
+	}
+]
+

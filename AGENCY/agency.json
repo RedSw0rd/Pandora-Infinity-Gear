@@ -1,0 +1,14 @@
+[
+	{
+		"AgentID":"a8f3e2d1b9c7e6f5a4b3c2d1e0f9a8b7c6d5e4f3",
+		"Codename":"Cerebro",
+		"Role":"AUXILIARY",
+		"Category":"OSINT",
+		"Version":"1.0",
+		"Description":"Intelligence gathering AI Agent specialized in open-source research. Combines knowledge base queries, web search, and deep page analysis to provide comprehensive information.",
+		"DownloadUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/master/AGENCY/cerebro/auxiliary-cerebro.tar.gz",
+		"SignatureUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/master/AGENCY/cerebro/auxiliary-cerebro.tar.gz.sig",
+		"BuildID":"0fb7e9f47c2a454ba370b2356723121ffbf1aa934689b35fdc63fa30abea1b63",
+		"Date":1785669500
+	}
+]
