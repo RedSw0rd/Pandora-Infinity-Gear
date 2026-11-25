@@ -10,5 +10,53 @@
 		"SignatureUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/master/AGENCY/cerebro/auxiliary-cerebro.tar.gz.sig",
 		"BuildID":"0fb7e9f47c2a454ba370b2356723121ffbf1aa934689b35fdc63fa30abea1b63",
 		"Date":1785669500
+	},
+	{
+		"AgentID":"2a44037e8ce25148faf12072d3b5907fdb235e5f",
+		"Codename":"Atlas",
+		"Role":"TEAMLEADER",
+		"Category":"WEB",
+		"Version":"1.0",
+		"Description":"Web team leader",
+		"DownloadUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/main/AGENCY/atlas/teamleader-atlas.tar.gz",
+		"SignatureUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/main/AGENCY/atlas/teamleader-atlas.tar.gz.sig",
+		"BuildID":"74167ff1fce2dd776da3b7ccef9e5f7300e75f0f4d7de6e3f1450ec95942c5c9",
+		"Date":1795581564
+	},
+	{
+		"AgentID":"d715570ecb65c6baef3dcb29cedcc8a857423b67",
+		"Codename":"Galaxy",
+		"Role":"EXPERT",
+		"Category":"RECON",
+		"Version":"1.0",
+		"Description":"",
+		"DownloadUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/main/AGENCY/galaxy/expert-galaxy.tar.gz",
+		"SignatureUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/main/AGENCY/galaxy/expert-galaxy.tar.gz.sig",
+		"BuildID":"42c6e4973bd15402afeed62d5ea617680d5f5a812481c626f91547bd8fffaf0b",
+		"Date":1795581566
+	},
+	{
+		"AgentID":"bae678bda62ec6ef439a7e62df3e8df3ca7fae6a",
+		"Codename":"Nuclear",
+		"Role":"EXPERT",
+		"Category":"RECON",
+		"Version":"1.0",
+		"Description":"",
+		"DownloadUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/main/AGENCY/nuclear/expert-nuclear.tar.gz",
+		"SignatureUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/main/AGENCY/nuclear/expert-nuclear.tar.gz.sig",
+		"BuildID":"400bf93d316a0c0360ea022523a95348b55903a2356058c06887e982da2514eb",
+		"Date":1795581567
+	},
+	{
+		"AgentID":"8c3010da17a1157f154db76aff0feb6fa7e90044",
+		"Codename":"SilentScope",
+		"Role":"OPERATOR",
+		"Category":"OSINT",
+		"Version":"1.0",
+		"Description":"",
+		"DownloadUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/main/AGENCY/silentscope/operator-silentscope.tar.gz",
+		"SignatureUrl":"https://raw.githubusercontent.com/RedSw0rd/Pandora-Infinity-Gear/main/AGENCY/silentscope/operator-silentscope.tar.gz.sig",
+		"BuildID":"15d4c4ac1e5bf94ac288951dec5191e7c045b21ba36cba7f2d6210c00bead49c",
+		"Date":1795581568
 	}
 ]
